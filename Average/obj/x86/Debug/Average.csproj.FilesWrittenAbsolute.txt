@@ -1,0 +1,5 @@
+/Users/margretunnarsdottir/Documents/ARU/C#/Average/Average/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/margretunnarsdottir/Documents/ARU/C#/Average/Average/bin/Debug/Average.exe.mdb
+/Users/margretunnarsdottir/Documents/ARU/C#/Average/Average/bin/Debug/Average.exe
+/Users/margretunnarsdottir/Documents/ARU/C#/Average/Average/obj/x86/Debug/Average.exe
+/Users/margretunnarsdottir/Documents/ARU/C#/Average/Average/obj/x86/Debug/Average.exe.mdb
